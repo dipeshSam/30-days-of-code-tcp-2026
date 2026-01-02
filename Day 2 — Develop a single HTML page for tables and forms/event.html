@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Tech Event Registration</title>
+    </head>
+    <body>
+
+        <!-- Page Title -->
+        <h1>Annual Tech Conference 2026</h1>
+
+        <!-- ========================= -->
+        <!-- Section 1: Event Schedule -->
+        <!-- ========================= -->
+
+        <h2>Event Schedule</h2>
+
+        <table border="1" cellpadding="8" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Activity</th>
+                    <th>Venue</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>09:00 AM – 10:00 AM</td>
+                    <td>Registration & Welcome</td>
+                    <td>Main Hall</td>
+                </tr>
+
+                <tr>
+                    <td>10:00 AM – 12:00 PM</td>
+                    <td>Keynote Session</td>
+                    <td>Auditorium</td>
+                </tr>
+
+                <tr>
+                    <td>01:00 PM – 03:00 PM</td>
+                    <td>Hands-on Workshops</td>
+                    <td>Lab Block</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <br><br>
+
+        <!-- ============================ -->
+        <!-- Section 2: Registration Form -->
+        <!-- ============================ -->
+
+        <h2>Event Registration Form</h2>
+
+        <form action="#" method="get">
+
+            <!-- Text Input -->
+            <label for="name">Full Name:</label><br>
+            <input type="text" id="name" name="name"><br><br>
+
+            <!-- Email Input -->
+            <label for="email">Email Address:</label><br>
+            <input type="email" id="email" name="email"><br><br>
+
+            <!-- Number Input -->
+            <label for="age">Age:</label><br>
+            <input type="number" id="age" name="age"><br><br>
+
+            <!-- Date Input -->
+            <label for="date">Date of Attendance:</label><br>
+            <input type="date" id="date" name="date"><br><br>
+
+            <!-- Radio Buttons -->
+            <p>Ticket Type:</p>
+            <input type="radio" id="standard" name="ticket" value="standard">
+            <label for="standard">Standard</label><br>
+
+            <input type="radio" id="premium" name="ticket" value="premium">
+            <label for="premium">Premium</label><br>
+
+            <input type="radio" id="vip" name="ticket" value="vip">
+            <label for="vip">VIP</label><br><br>
+
+            <!-- Checkboxes -->
+            <p>Workshop Preferences:</p>
+            <input type="checkbox" id="web" name="workshop" value="web">
+            <label for="web">Web Development</label><br>
+
+            <input type="checkbox" id="ai" name="workshop" value="ai">
+            <label for="ai">Artificial Intelligence</label><br>
+
+            <input type="checkbox" id="cyber" name="workshop" value="cyber">
+            <label for="cyber">Cyber Security</label><br><br>
+
+            <!-- Textarea -->
+            <label for="comments">Additional Comments:</label><br>
+            <textarea id="comments" name="comments" rows="4" cols="40"></textarea><br><br>
+
+            <!-- Submit Button -->
+            <button type="submit">Register</button>
+
+        </form>
+        
+    </body>
+</html>

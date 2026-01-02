@@ -3,13 +3,20 @@ Branch: Master of Computer Applications (MCA)
 Roll Number: 25223034  
 Session: 1st year
 
-_30-days-of-code-tcp-2026_
+_#30_days_of_code_tcp_2026_
 
 
 # DAY 1 — Personal Portfolio (HTML Only)
 **SOLUTION:**
-![Philadelphia's Magic Gardens. This place was so cool!](img/day-1-sol.png)
+![Solution screenshot - day 1](img/day-1-sol.png)
 
 **OUTPUT:**
-![Philadelphia's Magic Gardens. This place was so cool!](img/day-1-out.png)
+![Output screenshot - day 1](img/day-1-out.png)
 
+
+# Day 2 — Develop a single HTML page for tables and forms
+**SOLUTION:**
+![Solution screenshot - day 2](img/day-2-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 2](img/day-2-out.png)
