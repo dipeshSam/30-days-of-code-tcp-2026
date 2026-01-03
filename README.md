@@ -20,3 +20,11 @@ _#30_days_of_code_tcp_2026_
 
 **OUTPUT:**
 ![Output screenshot - day 2](img/day-2-out.png)
+
+
+# Day 3 — Improving DAY 1 Portfolio using Core CSS
+**SOLUTION:**
+![Solution screenshot - day 3](img/day-3-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 3](img/day-3-out.png)

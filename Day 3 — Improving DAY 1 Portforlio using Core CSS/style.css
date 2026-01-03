@@ -1,0 +1,119 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #1f2937;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+main {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+
+/* Headings */
+h2 {
+    color: #1f2937;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #374151;
+}
+
+/* Image */
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+/* Lists */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Projects */
+article {
+    background-color: #f9fafb;
+    padding: 15px;
+    margin-top: 10px;
+    border-left: 4px solid #2563eb;
+}
+
+/* Video */
+iframe {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+/* Quote */
+blockquote {
+    background-color: #eef2ff;
+    padding: 15px;
+    font-style: italic;
+    border-left: 5px solid #4f46e5;
+}
+
+cite {
+    display: block;
+    text-align: right;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Definition List */
+dl {
+    background-color: #f9fafb;
+    padding: 15px;
+    border-left: 4px solid #2563eb;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+dd {
+    margin-left: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
