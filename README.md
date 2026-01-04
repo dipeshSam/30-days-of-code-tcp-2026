@@ -28,3 +28,11 @@ _#30_days_of_code_tcp_2026_
 
 **OUTPUT:**
 ![Output screenshot - day 3](img/day-3-out.png)
+
+
+# DAY 4 — Product landing page for Flexbox layouts, responsive design, CSS variables, transitions, and basic animations
+**SOLUTION:**
+![Solution screenshot - day 4](img/day-4-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 4](img/day-4-out.png)

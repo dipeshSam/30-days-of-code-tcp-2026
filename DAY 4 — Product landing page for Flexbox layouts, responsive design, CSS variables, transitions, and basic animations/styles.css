@@ -1,0 +1,175 @@
+/* CSS VARIABLES */
+:root {
+    --primary: #2563eb;
+    --secondary: #1e293b;
+    --bg: #f8fafc;
+    --text: #0f172a;
+    --radius: 12px;
+}
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, sans-serif;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem 2rem;
+    background: white;
+}
+
+.logo span {
+    color: var(--primary);
+}
+
+.navbar a {
+    margin-left: 1.5rem;
+    text-decoration: none;
+    color: var(--secondary);
+    transition: color 0.3s;
+}
+
+.navbar a:hover {
+    color: var(--primary);
+}
+
+/* HERO SECTION */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4rem 2rem;
+    gap: 2rem;
+}
+
+.hero-text {
+    max-width: 500px;
+    animation: fadeIn 1s ease;
+}
+
+.hero h2 {
+    font-size: 2.5rem;
+}
+
+.hero-box {
+    width: 220px;
+    height: 220px;
+    background: var(--primary);
+    border-radius: var(--radius);
+    animation: float 3s ease-in-out infinite;
+}
+
+/* BUTTONS */
+.btn {
+    margin-top: 1rem;
+    padding: 0.8rem 1.6rem;
+    border: none;
+    border-radius: var(--radius);
+    background: var(--primary);
+    color: white;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.btn-outline {
+    background: transparent;
+    border: 2px solid var(--primary);
+    color: var(--primary);
+    padding: 0.8rem 1.6rem;
+    border-radius: var(--radius);
+    cursor: pointer;
+}
+
+/* FEATURES */
+.features {
+    display: flex;
+    gap: 2rem;
+    padding: 3rem 2rem;
+    justify-content: center;
+}
+
+.feature-card {
+    background: white;
+    padding: 2rem;
+    border-radius: var(--radius);
+    width: 260px;
+    transition: transform 0.3s;
+}
+
+.feature-card:hover {
+    transform: scale(1.05);
+}
+
+/* PRICING */
+.pricing {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 3rem 2rem;
+}
+
+.price-card {
+    background: white;
+    padding: 2rem;
+    border-radius: var(--radius);
+    text-align: center;
+    width: 220px;
+}
+
+.highlight {
+    border: 3px solid var(--primary);
+}
+
+.price {
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+/* FOOTER */
+.footer {
+    text-align: center;
+    padding: 1.5rem;
+    background: white;
+}
+
+/* ANIMATIONS */
+@keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .features,
+    .pricing {
+        flex-direction: column;
+        align-items: center;
+    }
+}
