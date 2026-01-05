@@ -1,0 +1,122 @@
+:root {
+    --bg: #0b0f1a;
+    --glass: rgba(255, 255, 255, 0.08);
+    --neon-x: #00eaff;
+    --neon-o: #ff4ecd;
+    --win: #00ff9d;
+    --draw: #ffaa00;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Orbitron', sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+        url("data:image/svg+xml;utf8,\
+        <svg xmlns='http://www.w3.org/2000/svg' width='80' height='80'>\
+        <rect width='80' height='80' fill='%230b0f1a'/>\
+        <circle cx='40' cy='40' r='1.5' fill='%231e294b'/>\
+        </svg>"),
+        var(--bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.app {
+    background: var(--glass);
+    backdrop-filter: blur(14px);
+    padding: 30px 40px;
+    border-radius: 18px;
+    text-align: center;
+    box-shadow: 0 0 40px rgba(0,0,0,0.6);
+}
+
+h1 {
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.divider line {
+    stroke: #2b3a6a;
+    stroke-width: 2;
+}
+
+#status {
+    margin: 15px 0;
+    font-size: 0.9rem;
+    opacity: 0.85;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 90px);
+    gap: 12px;
+    margin: 20px auto;
+}
+
+.cell {
+    width: 90px;
+    height: 90px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.2s ease;
+}
+
+.cell:hover {
+    transform: scale(1.05);
+}
+
+.cell.X {
+    color: var(--neon-x);
+    text-shadow: 0 0 15px var(--neon-x);
+}
+
+.cell.O {
+    color: var(--neon-o);
+    text-shadow: 0 0 15px var(--neon-o);
+}
+
+.cell.win {
+    animation: winPulse 0.8s infinite alternate;
+}
+
+@keyframes winPulse {
+    from { box-shadow: 0 0 10px var(--win); }
+    to { box-shadow: 0 0 30px var(--win); }
+}
+
+.board.draw {
+    animation: drawShake 0.6s ease;
+}
+
+@keyframes drawShake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 22px;
+    background: transparent;
+    border: 1px solid #4f6cff;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: rgba(79,108,255,0.2);
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tic-Tac-Toe | Neon Arena</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="index.css">
+</head>
+    <body>
+
+        <div class="app">
+            <h1>Tic-Tac-Toe</h1>
+
+            <!-- Decorative SVG -->
+            <svg class="divider" viewBox="0 0 200 20">
+                <line x1="0" y1="10" x2="200" y2="10" />
+            </svg>
+
+            <div id="status">Player X's turn</div>
+
+            <div class="board">
+                <div class="cell" data-index="0"></div>
+                <div class="cell" data-index="1"></div>
+                <div class="cell" data-index="2"></div>
+                <div class="cell" data-index="3"></div>
+                <div class="cell" data-index="4"></div>
+                <div class="cell" data-index="5"></div>
+                <div class="cell" data-index="6"></div>
+                <div class="cell" data-index="7"></div>
+                <div class="cell" data-index="8"></div>
+            </div>
+
+            <button id="restart">Restart Game</button>
+        </div>
+
+        <!-- JS -->
+        <script src="index.js"></script>
+    </body>
+</html>

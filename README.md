@@ -36,3 +36,11 @@ _#30_days_of_code_tcp_2026_
 
 **OUTPUT:**
 ![Output screenshot - day 4](img/day-4-out.png)
+
+
+# DAY 5 — Developing Tic-Tac-Toe website
+**SOLUTION:**
+![Solution screenshot - day 5](img/day-5-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 5](img/day-5-out.png)
