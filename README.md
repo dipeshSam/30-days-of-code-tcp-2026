@@ -48,3 +48,11 @@ _#30_days_of_code_tcp_2026_
 Note: This project is published online using the GitHub Pages. To view its online version, visit the following website: [https://dipeshsam.github.io/30-days-of-code-tcp-2026/](https://dipeshsam.github.io/30-days-of-code-tcp-2026/)
 
 
+# DAY 6 - Time complexity of a sample
+**SOLUTION:**
+![Solution screenshot - day 6](img/day-6-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 6](img/day-6-out.png)
+
+
