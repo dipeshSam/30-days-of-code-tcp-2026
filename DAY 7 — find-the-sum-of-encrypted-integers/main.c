@@ -50,7 +50,7 @@ int main(){
 
     int arr[size];
 
-    printf("\nEnter the %d numbers: ");
+    printf("\nEnter the %d numbers: ", size);
     for(size_t i = 0; i < size; i++)
         scanf("%d", &arr[i]);
 
