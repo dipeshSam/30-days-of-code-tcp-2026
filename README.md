@@ -56,3 +56,13 @@ Note: This project is published online using the GitHub Pages. To view its onlin
 ![Output screenshot - day 6](img/day-6-out.png)
 
 
+
+# DAY 7 — find-the-sum-of-encrypted-integers
+**SOLUTION:**
+![Solution screenshot - day 7](img/day-7-sol.png)
+
+**OUTPUT:**
+<p align="center">
+  <img src="img/day-7-out_1.png" width="48%"/>
+  <img src="img/day-7-out_2.png" width="48%"/>
+</p>
