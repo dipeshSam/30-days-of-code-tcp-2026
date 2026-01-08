@@ -66,3 +66,15 @@ Note: This project is published online using the GitHub Pages. To view its onlin
   <img src="img/day-7-out_1.png" width="48%"/>
   <img src="img/day-7-out_2.png" width="48%"/>
 </p>
+
+
+
+# DAY 8 - longest-consecutive-sequence
+**SOLUTION:**
+![Solution screenshot - day 8](img/day-8-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 8](img/day-8-out.png)
+
+Note: It might be so lengthy in C/C++, so I chose Python.
+
