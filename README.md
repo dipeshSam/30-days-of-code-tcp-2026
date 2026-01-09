@@ -78,3 +78,14 @@ Note: This project is published online using the GitHub Pages. To view its onlin
 
 Note: It might be so lengthy in C/C++, so I chose Python.
 
+
+# DAY 9 - largest-odd-number-in-string
+**SOLUTION:**
+![Solution screenshot - day 9](img/day-9-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 9](img/day-9-out.png)
+
+Note: It might be so lengthy in C/C++, so I chose Python.
+
+
