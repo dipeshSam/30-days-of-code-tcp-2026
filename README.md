@@ -89,3 +89,12 @@ Note: It might be so lengthy in C/C++, so I chose Python.
 Note: It might be so lengthy in C/C++, so I chose Python.
 
 
+# DAY 10 - sort-an-array-of-0s-1s-and-2s
+**SOLUTION:**
+![Solution screenshot - day 10](img/day-10-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 10](img/day-10-out.png)
+
+Comment: One of the amazing questions.
+
