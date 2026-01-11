@@ -98,3 +98,12 @@ Note: It might be so lengthy in C/C++, so I chose Python.
 
 Comment: One of the amazing questions.
 
+
+# DAY 11 - merge-sort
+**SOLUTION:**
+![Solution screenshot - day 11](img/day-11-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 11](img/day-11-out.png)
+
+
