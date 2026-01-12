@@ -107,3 +107,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 11](img/day-11-out.png)
 
 
+# DAY 12 - find-first-and-last-position-of-element-in-sorted-array
+**SOLUTION:**
+![Solution screenshot - day 12](img/day-12-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 12](img/day-12-out.png)
+
+
