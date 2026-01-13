@@ -115,3 +115,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 12](img/day-12-out.png)
 
 
+# DAY 13 - koko-eating-bananas
+**SOLUTION:**
+![Solution screenshot - day 13](img/day-13-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 13](img/day-13-out.png)
+
+
