@@ -123,3 +123,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 13](img/day-13-out.png)
 
 
+# DAY 14 - set-bits
+**SOLUTION:**
+![Solution screenshot - day 14](img/day-14-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 14](img/day-14-out.png)
+
+
