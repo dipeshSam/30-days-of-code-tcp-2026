@@ -131,3 +131,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 14](img/day-14-out.png)
 
 
+# DAY 15 - ugly-number-iii
+**SOLUTION:**
+![Solution screenshot - day 15](img/day-15-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 15](img/day-15-out.png)
+
+
