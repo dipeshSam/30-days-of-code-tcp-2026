@@ -139,3 +139,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 15](img/day-15-out.png)
 
 
+# DAY 16 - candies
+**SOLUTION:**
+![Solution screenshot - day 16](img/day-16-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 16](img/day-16-out.png)
+
+
