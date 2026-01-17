@@ -147,3 +147,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 16](img/day-16-out.png)
 
 
+# DAY 17 - count-good-numbers
+**SOLUTION:**
+![Solution screenshot - day 17](img/day-17-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 17](img/day-17-out.png)
+
+
