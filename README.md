@@ -155,3 +155,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 17](img/day-17-out.png)
 
 
+# DAY 18 - n-queens
+**SOLUTION:**
+![Solution screenshot - day 18](img/day-18-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 18](img/day-18-out.png)
+
+
