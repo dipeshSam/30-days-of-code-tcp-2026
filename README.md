@@ -163,3 +163,11 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 18](img/day-18-out.png)
 
 
+# DAY 19 - add-1-to-a-number-represented-as-linked-list
+**SOLUTION:**
+![Solution screenshot - day 19](img/day-19-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 19](img/day-19-out.png)
+
+
