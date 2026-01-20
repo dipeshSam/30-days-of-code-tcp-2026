@@ -171,3 +171,14 @@ Comment: One of the amazing questions.
 ![Output screenshot - day 19](img/day-19-out.png)
 
 
+# DAY 20 - odd-even-linked-list
+**SOLUTION:**
+![Solution screenshot - day 20](img/day-20-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 20](img/day-20-out.png)
+
+
+Comment: Nice question.
+
+
