@@ -178,7 +178,15 @@ Comment: One of the amazing questions.
 **OUTPUT:**
 ![Output screenshot - day 20](img/day-20-out.png)
 
-
 Comment: Nice question.
+
+
+# DAY 21 - next-greater-element-i
+**SOLUTION:**
+![Solution screenshot - day 21](img/day-21-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 21](img/day-21-out.png)
+
 
 
