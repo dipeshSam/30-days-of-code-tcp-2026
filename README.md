@@ -189,4 +189,12 @@ Comment: Nice question.
 ![Output screenshot - day 21](img/day-21-out.png)
 
 
+# DAY 22 - c-stl-set-5-queue
+**SOLUTION:**
+![Solution screenshot - day 22](img/day-22-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 22](img/day-22-out.png)
+
+
 
