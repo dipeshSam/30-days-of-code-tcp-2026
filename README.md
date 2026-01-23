@@ -198,3 +198,12 @@ Comment: Nice question.
 
 
 
+# DAY 23 - sort-characters-by-frequency
+**SOLUTION:**
+![Solution screenshot - day 23](img/day-23-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 23](img/day-23-out.png)
+
+
+
