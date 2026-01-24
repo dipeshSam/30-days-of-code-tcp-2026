@@ -197,13 +197,20 @@ Comment: Nice question.
 ![Output screenshot - day 22](img/day-22-out.png)
 
 
-
 # DAY 23 - sort-characters-by-frequency
 **SOLUTION:**
 ![Solution screenshot - day 23](img/day-23-sol.png)
 
 **OUTPUT:**
 ![Output screenshot - day 23](img/day-23-out.png)
+
+
+# DAY 24 - codeforces-problem-1725-B
+**SOLUTION:**
+![Solution screenshot - day 24](img/day-24-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 24](img/day-24-out.png)
 
 
 
