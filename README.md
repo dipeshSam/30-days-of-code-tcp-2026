@@ -213,4 +213,12 @@ Comment: Nice question.
 ![Output screenshot - day 24](img/day-24-out.png)
 
 
+# DAY 25 - tree-traversal_981269
+**SOLUTION:**
+![Solution screenshot - day 25](img/day-25-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 25](img/day-25-out.png)
+
+
 
