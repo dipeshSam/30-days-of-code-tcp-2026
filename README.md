@@ -231,3 +231,12 @@ Comment: Nice question.
 
 
 
+# DAY 27 - codeforces-comcontest-808-problem-B
+**SOLUTION:**
+![Solution screenshot - day 27](img/day-27-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 27](img/day-27-out.png)
+
+
+
