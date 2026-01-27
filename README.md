@@ -240,3 +240,12 @@ Comment: Nice question.
 
 
 
+# DAY 28 - count-number-of-nice-subarrays
+**SOLUTION:**
+![Solution screenshot - day 28](img/day-28-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 28](img/day-28-out.png)
+
+
+
