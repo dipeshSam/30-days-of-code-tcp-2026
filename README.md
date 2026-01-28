@@ -249,3 +249,12 @@ Comment: Nice question.
 
 
 
+# DAY 29 - binary-tree-maximum-path-sum
+**SOLUTION:**
+![Solution screenshot - day 29](img/day-29-sol.png)
+
+**OUTPUT:**
+![Output screenshot - day 29](img/day-29-out.png)
+
+
+
